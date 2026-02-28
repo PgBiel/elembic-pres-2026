@@ -489,6 +489,12 @@ Error: only element functions can be used as selectors
   ```)
 ]
 
+== Performance and Semantics
+
+- *No state!*
+  - No relayouts
+  - Rules are scoped
+
 #focus-slide[References and outlines]
 
 #let preamble = ```
